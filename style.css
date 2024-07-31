@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.container{
+    width: 80%;
+}
+.mint-bg-color{
+    background-color: #F0FFF0;
+}
+
+.navyblue-color{
+    color: #413960;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+/* ************************Navbar********************* */
+.nav-container{
+    background-color: #F0FFF0;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+
+.sign-in-btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: #21B573;
+}
+
+.icon-logo{
+    height: 55px;
+    width: 173px
+}
+
+.nav-link{
+    margin-right: 30px;
+    font-weight: 600;
+    color: black !important;
+}
+
+.nav-link:hover{
+    background-color: #21B573;
+    color: white !important;
+    border-radius: 30px;
+}
+
+
+/* -------------------------Banner--------------------- */
+
+.banner-container{
+    margin-bottom: 50px;
+}
+
+/* -------------------------Cards------------------------ */
+.card-container{
+    margin-bottom: 150px;
+}
+
+.book-icon{
+    height: 135px;
+}
+
+.card-section{
+    height: 270px;
+    width: 270px;
+    border: none;
+    background-color: #F8FFFB;
+}
+
+.card:hover{
+    box-shadow: 10px 10px 40px lightgray;
+}
+
+.card-2{
+    border: none;
+    box-shadow: 10px 10px 40px lightgray;
+}
+
+/* --------------------online course--------------------- */
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-ico{
+   height: 30px;
+}
+
+.online-course-container{
+    margin-bottom: 50px;
+}
+
+/* --------------------testimonial--------------------- */
+.testimonial-container{
+   margin-bottom: 150px;
+}
+
+.guy-img{
+    width: 50%;
+    
+}
+
+footer{
+    height: 500px;
+    background-color: #282531;
+    color: white;
+}
+
+
+.footer-container
+{
+    height: 400px;
+}
+
+/* .col-md-3{
+    margin-top: 10px;
+    text-decoration: none;
+} */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    padding-top: 70px;
+}
